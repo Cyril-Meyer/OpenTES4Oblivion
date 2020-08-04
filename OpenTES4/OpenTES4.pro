@@ -4,4 +4,8 @@ CONFIG -= app_bundle
 CONFIG -= qt
 
 SOURCES += \
+        bsa.cpp \
         main.cpp
+
+HEADERS += \
+    bsa.h
