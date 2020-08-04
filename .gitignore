@@ -1,0 +1,8 @@
+# QtCreator
+*.pro.user
+
+# Build
+build
+
+# Working directory
+working_directory
