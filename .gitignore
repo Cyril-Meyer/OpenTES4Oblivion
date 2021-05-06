@@ -6,3 +6,6 @@ build
 
 # Working directory
 working_directory
+
+# PyCharm
+.idea
